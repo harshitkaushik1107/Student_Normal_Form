@@ -65,9 +65,9 @@ ng serve
 - Open a Pull Request
 
 ## Contact
-**Harshit Kaushik - kaushikh236@gmail.com**
+- **Harshit Kaushik - kaushikh236@gmail.com**
 
-**Project Link: https://github.com/harshitkaushik1107/Student_Normal_Form.git**
+- **Project Link: https://github.com/harshitkaushik1107/Student_Normal_Form.git**
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as needed.
