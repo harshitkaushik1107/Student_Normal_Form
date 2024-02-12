@@ -17,6 +17,7 @@ Before you begin, ensure you have met the following requirements:
 - You have Angular CLI installed globally.
 
 ## Installation
+
 1. Clone the repository:
 
 - git clone https://github.com/harshitkaushik1107/Student_Normal_Form.git
@@ -24,40 +25,46 @@ Before you begin, ensure you have met the following requirements:
 ## Navigate into the project directory:
 - cd student-normal-form
 
-## install server-side dependencies:
+## Install server-side dependencies:
+
 - npm install express
 - npm install mongoose
 - npm install body-parser
 - npm install cors
 
 ## Navigate into the client directory:
-- cd client
+
+- cd project_name
 
 ## Install client-side dependencies:
+
 - npm install -g @angular/cli
 
 ## Table of Contents
 - [Features](#features)
 - [Usage](#usage)
 - [Contribution](#contribution)
-- [License](#license)
 
 ## Features
+
 Register new students by providing their name, address, and phone number.
 View a list of all registered students with their details.
 Update student information.
 Delete students from the system.
 
 ## Usage
+
 - Start the server:
 -  npm start
 
 **This will start the Node.js server at http://localhost:8000.**
 
 **Open another terminal and navigate into the client directory:**
+
 - cd project_name
 
 **Start the Angular development server:**
+
 - ng serve
 
 **This will start the Angular development server at http://localhost:4200.**
@@ -66,8 +73,8 @@ Delete students from the system.
 
 
 ## Contribution
-- Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
+- Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 - Fork the Project
 - Create your Feature Branch (git checkout -b feature/AmazingFeature)
 - Commit your Changes (git commit -m 'Add some AmazingFeature')
@@ -75,9 +82,7 @@ Delete students from the system.
 - Open a Pull Request
 
 ## Contact
+
 - **Harshit Kaushik - kaushikh236@gmail.com**
 
 - **Project Link: https://github.com/harshitkaushik1107/Student_Normal_Form.git**
-
-## License
-- This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as needed.
