@@ -26,13 +26,16 @@ Before you begin, ensure you have met the following requirements:
 - cd student-normal-form
 
 ## install server-side dependencies:
-- npm install
+- npm install express
+- npm install mongoose
+- npm install body-parser
+- npm install cors
 
 ## Navigate into the client directory:
 - cd client
 
 ## Install client-side dependencies:
-- npm install
+- npm install -g @angular/cli
 
 ## Table of Contents
 - [Features](#features)
