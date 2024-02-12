@@ -21,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/harshitkaushik1107/Student_Normal_Form.git)
+git clone https://github.com/harshitkaushik1107/Student_Normal_Form.git
 
 ## Navigate into the project directory:
    cd student-registration-system
