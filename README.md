@@ -26,7 +26,7 @@ Before you begin, ensure you have met the following requirements:
 - cd student-normal-form
 
 ## install server-side dependencies:
--npm install
+- npm install
 
 ## Navigate into the client directory:
 - cd client
