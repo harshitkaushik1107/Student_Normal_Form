@@ -44,6 +44,7 @@ Before you begin, ensure you have met the following requirements:
 - [Features](#features)
 - [Usage](#usage)
 - [Contribution](#contribution)
+- [Contact](#contact)
 
 ## Features
 
