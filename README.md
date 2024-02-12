@@ -18,7 +18,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation
 
-1. Clone the repository:
+- Clone the repository:
 
 - git clone https://github.com/harshitkaushik1107/Student_Normal_Form.git
 
