@@ -21,14 +21,13 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/harshitkaushik1107/Student_Normal_Form.git)
 
 ## Navigate into the project directory:
    cd student-registration-system
 
 ## Table of Contents
 - [Features](#features)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contribution](#contribution)
 - [License](#license)
@@ -38,12 +37,6 @@ Register new students by providing their name, address, and phone number.
 View a list of all registered students with their details.
 Update student information.
 Delete students from the system.
-
-## Getting Started
-
-To run the Student Registration System locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/ashish-egreycell/studentreg-normal.git`
 
 ## Usage
 
@@ -71,6 +64,11 @@ Create your Feature Branch (git checkout -b feature/AmazingFeature)
 Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
+
+## Contact
+Harshit Kaushik - kaushikh236@gmail.com
+
+Project Link: https://github.com/harshitkaushik1107/Student_Normal_Form.git
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as needed.
