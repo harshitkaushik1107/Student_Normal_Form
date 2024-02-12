@@ -1,6 +1,6 @@
 # Student Registration System
 
-This project is a simple student registration system built using MEAN stack (MongoDB, Express.js, Angular, Node.js). It allows users to register new students, update their information, delete students, and view all registered students.
+- This project is a simple student registration system built using MEAN stack (MongoDB, Express.js, Angular, Node.js). It allows users to register new students, update their information, delete students, and view all registered students.
 
 ## Technologies Used
 
@@ -17,7 +17,6 @@ Before you begin, ensure you have met the following requirements:
 - You have Angular CLI installed globally.
 
 ## Installation
-
 1. Clone the repository:
 
 - git clone https://github.com/harshitkaushik1107/Student_Normal_Form.git
@@ -50,17 +49,16 @@ Update student information.
 Delete students from the system.
 
 ## Usage
-
 - Start the server:
 -  npm start
 
 **This will start the Node.js server at http://localhost:8000.**
 
 **Open another terminal and navigate into the client directory:**
-cd client
+- cd project_name
 
 **Start the Angular development server:**
-ng serve
+- ng serve
 
 **This will start the Angular development server at http://localhost:4200.**
 
@@ -82,4 +80,4 @@ ng serve
 - **Project Link: https://github.com/harshitkaushik1107/Student_Normal_Form.git**
 
 ## License
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as needed.
+- This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as needed.
