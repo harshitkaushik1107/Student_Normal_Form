@@ -20,11 +20,10 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/harshitkaushik1107/Student_Normal_Form.git
+- ```bash/ git clone https://github.com/harshitkaushik1107/Student_Normal_Form.git
 
 ## Navigate into the project directory:
-   cd student-registration-system
+- cd student-normal-form
 
 ## Table of Contents
 - [Features](#features)
@@ -40,8 +39,8 @@ Delete students from the system.
 
 ## Usage
 
-Start the server:
-npm start
+- Start the server:
+** npm start
 
 This will start the Node.js server at http://localhost:8000.
 
