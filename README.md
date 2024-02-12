@@ -40,34 +40,34 @@ Delete students from the system.
 ## Usage
 
 - Start the server:
-** npm start
+-  npm start
 
-This will start the Node.js server at http://localhost:8000.
+**This will start the Node.js server at http://localhost:8000.**
 
-Open another terminal and navigate into the client directory:
+**Open another terminal and navigate into the client directory:**
 cd client
 
-Start the Angular development server:
+**Start the Angular development server:**
 ng serve
 
-This will start the Angular development server at http://localhost:4200.
+**This will start the Angular development server at http://localhost:4200.**
 
-Open your browser and visit http://localhost:4200 to access the application.
+**Open your browser and visit http://localhost:4200 to access the application.**
 
 
 ## Contribution
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+- Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
+- Fork the Project
+- Create your Feature Branch (git checkout -b feature/AmazingFeature)
+- Commit your Changes (git commit -m 'Add some AmazingFeature')
+- Push to the Branch (git push origin feature/AmazingFeature)
+- Open a Pull Request
 
 ## Contact
-Harshit Kaushik - kaushikh236@gmail.com
+**Harshit Kaushik - kaushikh236@gmail.com**
 
-Project Link: https://github.com/harshitkaushik1107/Student_Normal_Form.git
+**Project Link: https://github.com/harshitkaushik1107/Student_Normal_Form.git**
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as needed.
