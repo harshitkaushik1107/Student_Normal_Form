@@ -24,9 +24,9 @@ let updateUserController = async (req, res) =>
     let result = await userService.updateUserDBService(req.params.id,req.body);
 
      if (result) {
-        res.send({ "status": true, "message": "User Updateeeedddddd"} );
+        res.send({ "status": true, "message": "User Updated"} );
      } else {
-         res.send({ "status": false, "message": "User Updateeeedddddd Faileddddddd" });
+         res.send({ "status": false, "message": "User Updated Failed" });
      }
 }
 
@@ -35,9 +35,9 @@ let deleteUserController = async (req, res) =>
      console.log(req.params.id);
      let result = await userService.removeUserDBService(req.params.id);
      if (result) {
-        res.send({ "status": true, "message": "User Deleteddd"} );
+        res.send({ "status": true, "message": "User Deleted"} );
      } else {
-         res.send({ "status": false, "message": "User Deleteddd Faileddddddd" });
+         res.send({ "status": false, "message": "User Deleted Failed" });
      }
 }
 module.exports = { getDataConntrollerfn, createUserControllerFn,updateUserController,deleteUserController };
